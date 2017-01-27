@@ -10,7 +10,7 @@ This web service allows you to convert MARC-21 format to MODS.
 
 It makes use of a stylesheet retrieved from http://www.loc.gov/standards/marcxml/xslt
 
-The conversion from MARC-21 to NOD is currently being served at:
+The conversion from MARC-21 to MODS is currently being served at:
 
 ```http://weblicht.sfs.uni-tuebingen.de/converter/Marc2MODS/ ```
 
